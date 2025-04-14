@@ -1,0 +1,21 @@
+{
+  "name": "@trendmicro/deepsecurity",
+  "version": "20.0.1027",
+  "description": "Copyright_2018___2025_Trend_Micro_Incorporated_brGet_protected_stay_secured_and_keep_informed_with_Trend_Micro_Deep_Securitys_new_RESTful_API__Access_system_data_and_manage_security_configurations_to_automate_your_security_workflows_and_integrate_Deep_Security_into_your_CICD_pipeline__Authentication___ReDoc_Inject_security_definitions___",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "browser": {
+    "fs": false
+  },
+  "dependencies": {
+    "superagent": "3.7.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  }
+}
